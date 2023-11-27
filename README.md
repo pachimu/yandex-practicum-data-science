@@ -18,7 +18,7 @@ Presented in the form of Jupiter Notebooks and readme markdown files. <br>
     <td>Build a machine learning model that determines the approximate age of a person from a photo. There is a set of photos of people with an indication of their age.</td>
     <td>Pandas, keras, Matplotlib, Seaborn, Computer Vision, Machine Learning</td>
   </tr>
-        <tr>
+      <tr>
     <td>Classification of comments by tone</td>
     <td>Speeded up the moderation of comments by automating their toxicity assessment. Trained the model to classify comments as toxic and non-toxic.</td>
     <td>Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn</td>
